@@ -1,0 +1,16 @@
+{
+  "providers": [
+    {
+      "name": "free-fast",
+      "base_url": "http://127.0.0.1:20128/v1",
+      "api_key_env": "LLM_API_KEY",
+      "model": "oc/deepseek-v4.1-flash-free"
+    },
+    {
+      "name": "local-combo",
+      "base_url": "http://127.0.0.1:20128/v1",
+      "api_key_env": "LLM_API_KEY",
+      "model": "hermes"
+    }
+  ]
+}
