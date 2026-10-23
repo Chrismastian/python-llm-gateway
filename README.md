@@ -1,5 +1,7 @@
 # python-llm-gateway
 
+[![CI](https://github.com/Chrismastian/python-llm-gateway/actions/workflows/ci.yml/badge.svg)](https://github.com/Chrismastian/python-llm-gateway/actions/workflows/ci.yml)
+
 One OpenAI-compatible endpoint in front of many LLM providers, with automatic
 failover. Standard library only, no framework, no SDK.
 
